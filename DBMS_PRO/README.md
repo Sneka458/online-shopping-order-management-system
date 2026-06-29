@@ -1,20 +1,6 @@
 # 🛍️ Aura Luxe — Online Shopping & Order Management System
 
-A full-stack web application for online shopping and order management, built as a **DBMS Mini-Project (Semester 4)**. The platform supports user authentication, product browsing, cart management, order placement, and real-time order tracking — powered by a PostgreSQL relational database.
-
----
-
-## 📌 Table of Contents
-
-- [About the Project](#about-the-project)
-- [Tech Stack](#tech-stack)
-- [Database Schema](#database-schema)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [API Endpoints](#api-endpoints)
-- [Screenshots](#screenshots)
-- [Team](#team)
+A full-stack web application for online shopping and order management, built as a **DBMS Mini-Project **. The platform supports user authentication, product browsing, cart management, order placement, and real-time order tracking — powered by a PostgreSQL relational database.
 
 ---
 
@@ -235,18 +221,23 @@ Open your browser at: **http://localhost:5173**
 
 ---
 
-## 👩‍💻 Team
+## 📸 Screenshots
 
-| Name | Role |
-|------|------|
-| Sneka | Full Stack Developer |
+### Home Page
 
----
+![Home](screenshots/home.png)
 
-## 📄 License
+### Signup Page
 
-This project is developed for academic purposes as part of the **DBMS Mini-Project, Semester 4**.
+![Signup](screenshots/signup.png)
 
----
+### Contact
+
+![Contact](screenshots/contact.png)
+
+### Cart
+
+![Cart](screenshots/cart.png)
+
 
 > ⭐ If you found this project helpful, feel free to star the repository!
